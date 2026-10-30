@@ -1,0 +1,6 @@
+Example output format (actual values depend on training):
+Test loss: X.XXXX
+Test accuracy: XX.XX%
+True class: <class name>
+Predicted class: <class name>
+Saved model: cifar10_cnn.keras
